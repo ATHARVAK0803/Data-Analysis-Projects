@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction using Machine Learning & SMOTE
+##  Titanic Survival Prediction using Machine Learning & SMOTE
 
 ##  Project Overview
 This project predicts whether a passenger survived the Titanic disaster using
